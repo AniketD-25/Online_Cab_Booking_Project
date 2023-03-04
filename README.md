@@ -24,17 +24,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/project spring.datasource.driv
 API Root Endpoint https://localhost:9080/
 
 -http://localhost:9080/swagger-ui.html#/
- 
- 
-
-## Modules
-
-*	Login Module - Koti
-*	Admin Module - Depak
-*	Customer Module - Koti
-*	Driver Management Module - Arup
-*	Cab Management Module - Komal
-*	Booking Management Module - Devaraj
+                     
 
 # Features 🌱
 
